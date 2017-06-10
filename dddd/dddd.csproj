@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{52F8FEFD-19D2-459D-9D29-CF0C23D69FA8}</ProjectGuid>
+    <ProjectGuid>{24FB4848-03E8-4811-9122-E2D02D2BFC40}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>prueba</RootNamespace>
-    <AssemblyName>prueba</AssemblyName>
+    <RootNamespace>dddd</RootNamespace>
+    <AssemblyName>dddd</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -44,7 +44,6 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="sda.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
