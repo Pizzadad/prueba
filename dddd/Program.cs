@@ -10,6 +10,7 @@ namespace dddd
     {
         static void Main(string[] args)
         {
+<<<<<<< HEAD
 
             int dddd=1;
 
@@ -17,6 +18,8 @@ namespace dddd
 
             Console.WriteLine(a + dddd);
             Console.ReadLine();
+=======
+>>>>>>> 298667b6e1627e8b4852f37097ddc4e8e02c2dc2
         }
     }
 }

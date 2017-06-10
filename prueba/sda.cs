@@ -13,6 +13,9 @@ namespace prueba
         public int sd2{ get; set; }
         public int sd3 { get; set; }
         public int sd41 { get; set; }
+<<<<<<< HEAD
        
+=======
+>>>>>>> 298667b6e1627e8b4852f37097ddc4e8e02c2dc2
     }
 }
