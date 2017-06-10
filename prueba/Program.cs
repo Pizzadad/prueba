@@ -12,7 +12,7 @@ namespace prueba
         {
             Console.WriteLine("Hola a todos");
             Console.WriteLine("PORQUE NO TE CAMBIAS MEN");
-            Console.WriteLine("MEJOR NO");
+           
             Console.ReadLine();
         }
     }

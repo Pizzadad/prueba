@@ -11,7 +11,12 @@ namespace dddd
         static void Main(string[] args)
         {
 
-            int dddd;
+            int dddd=1;
+
+            int a=2;
+
+            Console.WriteLine(a + dddd);
+            Console.ReadLine();
         }
     }
 }

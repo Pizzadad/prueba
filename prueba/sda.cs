@@ -13,9 +13,6 @@ namespace prueba
         public int sd2{ get; set; }
         public int sd3 { get; set; }
         public int sd41 { get; set; }
-        public int sd3 { get; set; }
-        public int sd61 { get; set; }
-        public int sd35 { get; set; }
-        public int sd51 { get; set; }
+       
     }
 }
